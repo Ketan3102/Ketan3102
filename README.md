@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: [**kkmishra20010131@gmail.com**](kkmishra20010131@gmail.com)
 
-- 📄 Know about me: [**Resume**]
+- 📄 Know about me: [**Resume**](https://drive.google.com/file/d/1DB5a_hm9-e5vIv6tzsliZoMFuqw8ESsZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
