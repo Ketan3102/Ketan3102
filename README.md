@@ -7,6 +7,8 @@
 
 - 📄 Know about me: [**Resume**](https://drive.google.com/file/d/1DB5a_hm9-e5vIv6tzsliZoMFuqw8ESsZ/view?usp=sharing)
 
+- 💻 Explore Data Science & AI: [**Check out my Blogs**](https://medium.com/@ketan31kumar)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ketan_3101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ketan_3101" height="30" width="40" /></a>
