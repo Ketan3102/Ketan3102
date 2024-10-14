@@ -7,7 +7,7 @@
 
 - 📄 Know about me: [**Resume**](https://drive.google.com/file/d/1DB5a_hm9-e5vIv6tzsliZoMFuqw8ESsZ/view?usp=sharing)
 
-- 💻 Explore Data Science & AI: [**Check out my Blogs**](https://medium.com/@ketan31kumar)
+- 💻 Explore Data Science & AI: [**Check out my Blogs**]([https://medium.com/@ketan31kumar](https://www.analyticsvidhya.com/blog/author/ketan_3101/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
