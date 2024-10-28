@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: [**kkmishra20010131@gmail.com**](kkmishra20010131@gmail.com)
 
-- 📄 Know about me: [**Resume**](https://drive.google.com/file/d/1DB5a_hm9-e5vIv6tzsliZoMFuqw8ESsZ/view?usp=sharing)
+- 📄 Know about me: [**Resume**](https://drive.google.com/file/d/1ySUnxxkDasAU1K1XpextzUZpX8Lb3Rdp/view?usp=sharing)
 
 - 💻 Explore Data Science & AI: [**Check out my Blogs**](https://www.analyticsvidhya.com/blog/author/ketan_3101/)
 
